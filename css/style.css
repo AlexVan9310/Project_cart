@@ -1,0 +1,83 @@
+body {
+    background: rgb(255, 255, 255);
+}
+.container{
+    margin: 50px;
+}
+.block1{
+    display: flex;
+}
+
+
+.text1 {
+    background-color:red;
+    color: white;
+    padding: 0 10px 0 10px;
+    border-radius: 5px;
+}
+.text2 {
+    color: white;
+    background-color:red;
+    margin-left: 10px;
+    padding: 0 10px 0 10px;
+    border-radius: 5px;
+}
+.stars{
+    color: yellow;
+    cursor: pointer;
+}
+.stars:hover{
+    color: rgb(38, 0, 255);  
+}
+.sr:hover{
+    color:aqua
+}
+.text3{
+    color:#8a8f9d;
+    margin-left:  10px;
+}
+.text4 {
+    color:#8a8f9d;
+    font-size: 12px;
+
+}
+.text5 {
+    color:red;
+}
+.text6 {
+    background-color:#fdeeb9;
+    margin-left: 10px;
+}
+.text7 {
+    background-color:#4aa852;
+    border-radius: 20px;
+    padding: 0 50px 0 50px;
+    color: white;
+
+}
+.text7:hover{
+    background-color:red;
+}
+
+.texts {
+    font-size: 17px;
+}
+.heart {
+    color:#787e8e;
+    font-size: 25px;
+    margin-left: 25px;
+}
+button {
+    border: 0;
+    background-color:white;
+}
+.scales{
+    width: 25px;
+    height: 25px;
+    background-color:white;
+    margin-left: 15px;
+
+}
+.heart:hover{
+    color:red;
+}
